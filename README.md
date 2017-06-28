@@ -1,2 +1,0 @@
-# reposhima
-Root Folder
